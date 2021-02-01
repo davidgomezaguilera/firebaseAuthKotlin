@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "839817536525",
+    "project_id": "primerfirebase-404e5",
+    "storage_bucket": "primerfirebase-404e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817536525:android:5f5adc9dbff790ed072144",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColN_avq6Q2b4o1k-mNd9DoppUk_rI46Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817536525:android:d56ef0297262bcf6072144",
+        "android_client_info": {
+          "package_name": "com.example.practicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColN_avq6Q2b4o1k-mNd9DoppUk_rI46Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839817536525:android:6937414204797c90072144",
+        "android_client_info": {
+          "package_name": "com.example.practicakotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColN_avq6Q2b4o1k-mNd9DoppUk_rI46Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839817536525-d4sugnthh52piimgl7s91aa3l8ritd37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practicaKotlinFirebase</string>ç
+    <string name="prefs_file">com.example.practicakotlinfirebase.PREFERENCES_FILE_KEY</string>
+    <string name="facebook_app_id">958044898062826</string>
+    <string name="fb_login_protocol_scheme">fb958044898062826</string>
+</resources>
